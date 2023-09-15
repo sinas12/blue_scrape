@@ -1,6 +1,6 @@
 # blue_scrape
 <p align="center">
-    <img src="[http://material-bread.org/logo-shadow.svg](https://raw.githubusercontent.com/sinas12/blue_scrape/main/scraper.png)" alt="bluescrape">
+    <img src="https://raw.githubusercontent.com/sinas12/blue_scrape/main/scraper.png" alt="bluescrape">
 </p>
 ## Simple Python Project For Using Selenium to Scrape Data From Webpages
 ### blue_scrape.py
