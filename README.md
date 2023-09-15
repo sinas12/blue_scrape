@@ -1,7 +1,7 @@
 # blue_scrape
-<center>
-![alt text](https://raw.githubusercontent.com/sinas12/blue_scrape/main/scraper.png)
-</center>
+<p align="center">
+    <img src="[http://material-bread.org/logo-shadow.svg](https://raw.githubusercontent.com/sinas12/blue_scrape/main/scraper.png)" alt="bluescrape">
+</p>
 ## Simple Python Project For Using Selenium to Scrape Data From Webpages
 ### blue_scrape.py
 basic python program that opens up google in IE and select the search bar in google ( currently google search bar class name is “gLFyf” ) and types “Hi mom” and press ENTER to do the search and writes the source code of the page  in txt called “page_source_of_google_after_typing_hi_mom.txt” file in the same place as the program . 
